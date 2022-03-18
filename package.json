@@ -19,7 +19,7 @@
     "async": "^1.5.2",
     "chalk": "^1.0.0",
     "lodash": "^4.0.0",
-    "nib": "^1.1.2",
+    "nib": "stylus/nib",
     "stylus": "^0.56.0"
   },
   "devDependencies": {
